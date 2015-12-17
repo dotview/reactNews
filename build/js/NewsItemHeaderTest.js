@@ -1,0 +1,1 @@
+console.error("Error: Cannot find module 'D:\\GitRep\\ReactNews\\js\\NewsItemHeaderTest.js' from 'D:\\GitRep\\ReactNews'");
